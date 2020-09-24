@@ -1,0 +1,44 @@
+[Tasks]
+Count=42
+task1=-Even BETTER telnet support :(
+task2=-A way to detect what client it is
+task3=-One character CAN'T log twice
+task4=*-Forbidden names
+task5=*-Prompt prototype
+task6=*-Some faster TRANSMITS - No need to format the text for EACH one
+task7=*-Deal with the SLOW textbox =(
+task8=*-Wrap function to help with Transmitting
+task9=*-Absolute spam protection =)
+task10=*-Make the look command faster
+task11=*-Command TIME is typed in the debug window
+task12=*-Ready emotes redone
+task13=*-Up/Down aliases
+task14=*-TopMost button
+task15=*-Exits prompt at look
+task16=*-Link between areas
+task17=*-Fix the new area
+task18=*-Creation moved to the basement
+task19=*-Memory instead of Access *sigh*
+task20=*-Area able, can read areas from file
+task21=*-Add 3d dimenstion (X,Y,Z)
+task22=*-Access instead of INI files
+task23=*-News command
+task24=*-Ready emotes
+task25=*-Even better spam
+task26=*-Wrapped sends as ONE
+task27=*-Look AT
+task28=*-Improved kick
+task29=*-Right click on list to user options
+task30=*-In Ini files, vbcrlf
+task31=*-Command stacking
+task32=*-Help
+task33=*-Screen wrap support vbcrlf
+task34=*-Screen wrap
+task35=*-Fix login duplications
+task36=*-Server says bug
+task37=*-Ansi color
+task38=*-Comments
+task39=*-You can see characters in room
+task40=*-Restting variables of user on exit
+task41=*-N, S, E, W
+task42=*-Look
